@@ -5,6 +5,7 @@ I've improved MySQL Workbench skills, gained a deeper understanding of leveragin
 - Exploring the database with multiple tables containing data about website activity, orders and products.
 - Tackling the assignments and projects structured in way that follow the life of the company in chronological order.
 - Extracting and analyzing data using SQL to help Marketing and Website Managers to steer the business in:
+
   1. Traffic Analysis & Optimization
   2. Website Measurement and Testing
   3. Business Patterns and Seasonality
